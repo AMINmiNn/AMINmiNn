@@ -12,5 +12,16 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 -->
+## Visitors:![Visitor Count](https://profile-counter.glitch.me/AMINmiNn/count.svg)
+
+## I'm Min Yang.
+- 🔭 I’m currently an undergraduate in **[Deparment of Eletrical Engineering](https://www.eea.tsinghua.edu.cn), Tsinghua University**.
+- 🌱 I’m currently learning **ML、DL and the application in power systems**.
+- 📫 How to reach me: **yangmin20@mails.tsinghua.edu.cn**.
+- ⚡ Fun fact: **LOL、guitar**
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMINmiNn&layout=compact)](https://github.com/AMINmiNn/github-readme-stats)
