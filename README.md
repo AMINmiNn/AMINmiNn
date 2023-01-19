@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **ML、DL and their application in power systems**.
 - 📫 How to reach me: **yangmin20@mails.tsinghua.edu.cn**.
 - ⚡ Fun fact: **LOL、guitar**
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMINmiNn&layout=compact)](https://github.com/AMINmiNn/github-readme-stats)
+  
+  
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMINmiNn&layout=compact&theme=tokyonight)
