@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-## Visitors:![Visitor Count](https://profile-counter.glitch.me/AMINmiNn/count.svg)
+## Hello! My No.![Visitor Count](https://profile-counter.glitch.me/AMINmiNn/count.svg)Visitor!
 
 ## I'm Min Yang.
 - 🔭 I’m currently an undergraduate in **[Deparment of Eletrical Engineering](https://www.eea.tsinghua.edu.cn), Tsinghua University**.
-- 🌱 I’m currently learning **ML、DL and the application in power systems**.
+- 🌱 I’m currently learning **ML、DL and their application in power systems**.
 - 📫 How to reach me: **yangmin20@mails.tsinghua.edu.cn**.
 - ⚡ Fun fact: **LOL、guitar**
 
