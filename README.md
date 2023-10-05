@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently an undergraduate at **[Deparment of Eletrical Engineering](https://www.eea.tsinghua.edu.cn), Tsinghua University**.
 - 🌱 I’m currently learning **ML、DL and their application in power systems**.
 - 📫 How to reach me: **yangmin20@mails.tsinghua.edu.cn**.
-- ⚡ Fun fact: **LOL、guitar**
   
   
   
