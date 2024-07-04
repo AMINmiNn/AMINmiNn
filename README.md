@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: 
 -->
-## Hello! My No.![Visitor Count](https://profile-counter.glitch.me/AMINmiNn/count.svg)Visitor!
+
 
 ## I'm Min Yang.
 - 🔭 I’m currently an undergraduate at **[Deparment of Eletrical Engineering](https://www.eea.tsinghua.edu.cn), Tsinghua University**.
